@@ -1,0 +1,4 @@
+Peter Fesz-Nguyen pfesznguyen@email.arizona.edu Uniformed-cost search algorithm, suboptimal search algorithm
+Travis Elbert Stratton tstrat@email.arizona.edu breadth-first search algorithm
+Christopher Conway crconway@email.arizona.edu depth-first search algorithm
+Reid Knight knightr@email.arizona.edu cornersProblem getSuccessors, all heuristics, AnyFood goal state
